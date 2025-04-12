@@ -16,3 +16,6 @@ db.prenda.insertOne
 */
 // Listar Documento 
 db.prenda.find()
+
+// Contar Documento
+db.prenda.find().count()
